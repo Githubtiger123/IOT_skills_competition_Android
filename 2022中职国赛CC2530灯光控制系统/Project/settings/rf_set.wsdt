@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>rf_set/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>132</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build><Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1476</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>529</ColumnWidth0><ColumnWidth1>75</ColumnWidth1><ColumnWidth2>908</ColumnWidth2></Find-in-Files><TerminalIO/></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1552-11148</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>rf_set</ExpandedNode><ExpandedNode>rf_set/app</ExpandedNode><ExpandedNode>rf_set/sensor_drv</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-5639-8760</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-23553-32260</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-25833-677</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rf_set.c</Filename><XPos>0</XPos><YPos>189</YPos><SelStart>3009</SelStart><SelEnd>3009</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SENSOR_DRV\get_adc.c</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>440</SelStart><SelEnd>440</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SENSOR_DRV\get_adc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\board\hal_led.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>328</SelStart><SelEnd>337</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_mcu.c</Filename><XPos>0</XPos><YPos>63</YPos><SelStart>2227</SelStart><SelEnd>2239</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_LIB\common\hal_uart.c</Filename><XPos>0</XPos><YPos>124</YPos><SelStart>4270</SelStart><SelEnd>4270</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_uart.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>943</SelStart><SelEnd>943</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_LIB\board\hal_board.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>213</SelStart><SelEnd>213</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04e12010><key>iaridepm.enu1</key></Toolbar-04e12010></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>757</Bottom><Right>206</Right><x>-2</x><y>-2</y><xscreen>164</xscreen><yscreen>194</yscreen><sizeHorzCX>85417</sizeHorzCX><sizeHorzCY>194584</sizeHorzCY><sizeVertCX>108333</sizeVertCX><sizeVertCY>761284</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>195</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>197</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>197593</sizeHorzCY><sizeVertCX>111458</sizeVertCX><sizeVertCY>239719</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
