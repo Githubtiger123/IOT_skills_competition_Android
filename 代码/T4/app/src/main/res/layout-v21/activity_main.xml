@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_temp_humi">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#00a6ff"
+        app:logo="@drawable/ic_launcher_background">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="温湿度实时显示"
+            android:textColor="#ffff"
+            android:textSize="22sp"/>
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="400sp"
+        android:layout_height="match_parent"
+        android:layout_gravity="right"
+        android:background="@drawable/bg_tab"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_temp"
+            android:layout_width="320dp"
+            android:layout_height="101dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/pic_temperature"
+            android:layout_gravity="center"
+            android:text="      0.0°C"
+            android:textColor="#42bdff"
+            android:textSize="55sp"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_hum"
+            android:layout_width="320dp"
+            android:layout_height="101dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/pic_humidity"
+            android:text="      0.0%rh"
+            android:textColor="#58ff74"
+            android:textSize="55sp"
+            android:gravity="center"/>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="60dp">
+
+            <Button
+                android:id="@+id/btn_start"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/btn_collection_start_normal" />
+
+            <Button
+                android:id="@+id/btn_stop"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left"
+                android:layout_marginLeft="50dp"
+                android:background="@drawable/btn_collection_stop_normal" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

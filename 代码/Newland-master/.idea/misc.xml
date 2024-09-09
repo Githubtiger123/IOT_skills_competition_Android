@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/drawable/bg_rect_round_tag_btn.xml" value="0.215" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/drawable/bg_tab_panel.xml" value="0.215" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.286" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/drawable/setting_item.xml" value="0.215" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/drawable/xui_config_bg_splash.xml" value="0.139" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/activity_main.xml" value="0.31574074074074077" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/fragment_camera.xml" value="0.31574074074074077" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/fragment_modbus4150.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/fragment_serialport.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/fragment_setting_network.xml" value="0.35520833333333335" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/fragment_zigbee.xml" value="0.35520833333333335" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/sv_layout_complete.xml" value="0.35520833333333335" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/sv_layout_custom.xml" value="0.31574074074074077" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/layout/sv_layout_loading.xml" value="0.31574074074074077" />
+        <entry key="..\:/Android_APP/Newland/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.286" />
+        <entry key="..\:/Users/zl/.gradle/caches/transforms-3/e8fba74f144b9360e574cc5a788dff98/transformed/jetified-XUI-1.1.9/res/drawable-v21/xui_config_bg_splash.xml" value="0.172" />
+        <entry key="..\:/Users/zl/.gradle/caches/transforms-3/e8fba74f144b9360e574cc5a788dff98/transformed/jetified-XUI-1.1.9/res/drawable/xui_config_bg_splash.xml" value="0.172" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable-v17/bg_rect_round_tag_btn.xml" value="0.1775" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable-v17/thumb_checked.xml" value="0.1775" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable-v17/xui_config_bg_splash.xml" value="0.1775" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable-v17/xui_config_preview_window.xml" value="0.1775" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable/bg_rect_round_tag_btn.xml" value="0.186" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable/bg_tab_panel.xml" value="0.1725" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable/ic_check_circle_white_24dp.xml" value="0.179" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable/ic_iot_logo.xml" value="0.1845" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1775" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1845" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable/newland_config_bg_splash.xml" value="0.172" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/drawable/xui_config_bg_splash.xml" value="0.172" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/dialog_drawable_utils_createfromview.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_camera.xml" value="0.340625" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_firstpage.xml" value="0.340625" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_ledscreen.xml" value="0.340625" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_modbus4017.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_modbus4150.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_navigation_view.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_rfid.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_setting_network.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_simple_list.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_test.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/fragment_zigbee.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/sv_layout_complete.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/sv_layout_custom.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/sv_layout_error.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/layout/sv_layout_loading.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1775" />
+        <entry key="..\:/Users/zl/AndroidStudioProjects/Newland/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1775" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setting"
+        android:title="设置"
+        android:icon="@drawable/ic_launcher_foreground"
+        app:showAsAction="never"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/exit"
+        android:title="退出"
+        android:icon="@drawable/ic_launcher_foreground"
+        app:showAsAction="never"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/help"
+        android:title="帮助"
+        android:icon="@drawable/ic_launcher_foreground"
+        app:showAsAction="never"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/photo"
+        android:title="拍照"
+        app:showAsAction="always"
+        android:icon="@drawable/photo"
+        />
+
+</menu>

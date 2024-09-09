@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_ShowMsgDlg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="提示信息对话框"/>
+
+    <Button
+        android:id="@+id/btn_ShowSingleDlg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="单选对话框"/>
+
+    <Button
+        android:id="@+id/btn_ShowMultiDlg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="多选对话框"/>
+
+    <Button
+        android:id="@+id/btn_ShowCustomDlg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义对话框"/>
+
+
+</LinearLayout>
